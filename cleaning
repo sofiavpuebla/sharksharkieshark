@@ -1,0 +1,37 @@
+import re
+
+def findYear(x):
+    res=re.search(r'\d{4}',x)
+    if res:
+        x=int(res.group())
+    else:
+        x='no'
+    return x
+
+def findMonth(x):
+    res=re.search(r'\.\w{2}\.',x)
+    if res:
+        x=res.group()
+    else:
+        x=0
+    return x
+
+def month(x):
+
+    if x='06':
+        x='Jun'
+    elif x='07':
+        x='Jul'
+    elif x='08':
+        x='Aug'
+    elif x='09':
+        x='Sep'
+    elif x='10':
+        x='Oct'
+    elif x='02':
+        x='Feb'
+    elif x='01':
+        x='Jan'
+    elif x
+        x
+    return x
