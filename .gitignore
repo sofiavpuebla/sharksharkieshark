@@ -132,3 +132,5 @@ dmypy.json
 attacks.csv
 
 .DS_Store
+
+__pycache__
