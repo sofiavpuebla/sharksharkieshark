@@ -1,6 +1,8 @@
 # Project Sharks
 
 ![Baby Shark](/input/maxresdefault.jpg)
+![Baby Shark](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3GgkZjFmTsg&psig=AOvVaw2RNs2fHttxZa6pRGTDSafj&ust=1592377711229000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCznrbjheoCFQAAAAAdAAAAABAJ)
+
 
 # Análisis del comportamiento humano
 
@@ -10,7 +12,7 @@ Para responder a esta pregunta se utiliza un data set descargado de una platafor
 
 ### La hipótesis planteada es la siguiente:
 
-EL humano es un ser vivo que aprende de sus errores y, en consecuencia, modifica sus actuaciones futuras para prevenirlos. Por lo tanto, ¿los ataques de tiburones van disminuyendo a lo largo de las décadas fruto del miedo que generan en los humanos y sus precauciones para con ellos?
+El humano es un ser vivo que aprende de sus errores y, en consecuencia, modifica sus actuaciones futuras para prevenirlos. Por lo tanto, ¿los ataques de tiburones van disminuyendo a lo largo de las décadas fruto del miedo que generan en los humanos y sus precauciones para con ellos?
 
 Por ello, en este trabajo se analizan detalladamente tres países concretos: Estados Unidos, Sudáfrica y Australia. La selección se debe a que son los países con mayor número de casos según el data set analizado.
 
