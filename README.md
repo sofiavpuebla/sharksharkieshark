@@ -1,5 +1,7 @@
 # Project Sharks
 
+![Baby Shark](/input/maxresdefault.jpg)
+
 # Análisis del comportamiento humano
 
 ## ¿Un elevado número de ataques de tiburones a humanos modifica su comportamiento en las costas?
